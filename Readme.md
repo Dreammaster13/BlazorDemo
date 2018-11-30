@@ -6,7 +6,7 @@ First demo will be hosted on Firebase soon.(Scheduled to deploy - 12/15/2018)
 
 ## Credits
 
-Thank you very much for contributions
+Thanks to everyone for contributions
 
 ## License
 
